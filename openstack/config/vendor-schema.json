@@ -217,6 +217,12 @@
           "name": "Baremetal API Version",
           "description": "Baremetal API Version",
           "type": "string"
+        },
+        "shared_file_system_api_version": {
+          "name": "Shared File System API Version",
+          "description": "Shared File System API Version",
+          "default": "2",
+          "type": "string"
         }
       }
     }
